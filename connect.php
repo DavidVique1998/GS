@@ -17,6 +17,6 @@ if ($conn->connect_error) {
 echo "Connected successfully";
 
 mysqli_close($conn);
-
+$password = "";
 ?>
 <!-- Comentario del cambio -->
