@@ -19,3 +19,4 @@ echo "Connected successfully";
 mysqli_close($conn);
 
 ?>
+<!-- Comentario del cambio -->
